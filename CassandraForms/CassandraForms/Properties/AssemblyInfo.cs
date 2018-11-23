@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CassandraConsole_test")]
+[assembly: AssemblyTitle("CassandraForms")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CassandraConsole_test")]
+[assembly: AssemblyProduct("CassandraForms")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b9866c41-c8e8-4503-aef8-518280273fe8")]
+[assembly: Guid("bf6ded34-81e1-4642-90db-d0f29e93a288")]
 
 // Version information for an assembly consists of the following four values:
 //

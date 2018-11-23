@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CassandraConsole_test
+namespace CassandraForms
 {
     public class User
     {
-        public string email;
-
+        public string email { get; set; }
+        public List<string> cardArr { get; set; }
+        public SortedDictionary<string, int> tickDict { get; set; }
 
     }
 
